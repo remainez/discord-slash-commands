@@ -1,0 +1,24 @@
+### Node ###
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+ismr-slash-commands/node_modules/
+
+# dotenv environment variables file
+ismr-slash-commands/.env
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+### AWS SAM ###
+.aws-sam/
+samconfig.toml
+.env
