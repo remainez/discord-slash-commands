@@ -35,7 +35,7 @@ commands.info = (options, member) => {
 
 
  Slash command application for discord server.
- Generated https://github.com/remainez/discord-slash-commands
+ Generated from https://github.com/remainez/discord-slash-commands
  \`\`\``;
 }
 
